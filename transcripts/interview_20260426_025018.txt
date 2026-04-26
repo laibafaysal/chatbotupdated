@@ -1,0 +1,59 @@
+============================================================
+         INTERVIEW TRANSCRIPT
+  Date : 2026-04-26
+  Model: llama-3.3-70b-versatile
+============================================================
+
+[02:46:01] INTERVIEWER
+  Hello, welcome to your interview session. I'm glad you could make it today. We will go through a few questions covering your background, skills, and experience. Please take your time and answer naturally. Let's begin — could you please start by introducing yourself and telling me a bit about your background?
+
+[02:46:35] CANDIDATE
+  hello
+
+[02:46:36] INTERVIEWER
+  It's nice to meet you, and I appreciate you taking the time to speak with me today. Before we begin, I just want to briefly introduce myself and explain the format of our conversation, which will include discussing your background, technical skills, and some scenario-based questions. Can you start by telling me a little bit about yourself and what motivated you to apply for this role?
+
+[02:47:15] CANDIDATE
+  petrol
+
+[02:47:16] INTERVIEWER
+  It sounds like you might have some interest or experience related to the petroleum industry, which is relevant to our company's work. I'd like to explore that further, so can you tell me about your technical skills or experience working with petroleum products or related technologies?
+
+[02:47:46] CANDIDATE
+  I said veg roll
+
+[02:47:46] INTERVIEWER
+  It seems like there might have been a miscommunication, and I'm not sure how a veg roll relates to your background or qualifications. Let's try to get back on track, and I want to reassure you that it's okay if we had a slight misunderstanding. Can you tell me about your educational background or any relevant work experience you've had?
+
+[02:48:11] CANDIDATE
+  I said which RO
+
+[02:48:11] INTERVIEWER
+  It seems like we're still having a bit of trouble understanding each other, and I want to make sure I hear you correctly. Take a deep breath and don't worry, we'll get through this - can you please repeat what you said, and I'll do my best to clarify and respond accordingly?
+
+[02:48:38] CANDIDATE
+  I said which RO
+
+[02:48:38] INTERVIEWER
+  I think I'm starting to understand that you might be referring to a specific role or position, but I'm still not entirely clear. Let me try to rephrase the question to help us move forward - what type of role or position are you interested in or applying for, and how do you think your skills and experience might be a good fit?
+
+[02:49:10] CANDIDATE
+  management
+
+[02:49:10] INTERVIEWER
+  Management is a great area of interest, and I'd like to explore your experience and skills in that area. You seem a bit nervous, so I want to reassure you that this conversation is a two-way dialogue, and I'm here to listen and have a discussion. Can you tell me about a time when you had to manage a team or a project, and what you learned from that experience?
+
+[02:49:44] CANDIDATE
+  no
+
+[02:49:45] INTERVIEWER
+  It can be challenging to think of specific examples on the spot, and I want to reassure you that it's okay if you need a moment to think. Let's try to approach this from a different angle - if you were given a management role, what do you think would be the most important qualities or skills for you to have in order to be successful?
+
+[02:50:01] CANDIDATE
+  goodbye
+
+[02:50:01] INTERVIEWER
+  Thank you so much for your time today. It was a pleasure speaking with you. We will review everything and be in touch within a few days. Take care and goodbye!
+
+============================================================
+END OF TRANSCRIPT
