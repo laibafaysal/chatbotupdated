@@ -1,0 +1,42 @@
+============================================================
+         INTERVIEW TRANSCRIPT
+  Date  : 2026-04-29
+  Model : llama-3.3-70b-versatile
+  Engine: Librosa Speech Emotion
+============================================================
+
+[02:34:44] INTERVIEWER
+  Hello, welcome to your interview session. I'm glad you could make it today. We will go through a few questions covering your background, skills, and experience. Please take your time and answer naturally. Let's begin — could you please start by introducing yourself?
+
+[02:35:16] CANDIDATE
+  hello
+
+[02:35:17] INTERVIEWER
+  It's nice to meet you, and I appreciate you taking the time to speak with me today. Can you start by telling me a little bit about your background and what motivated you to apply for this role?
+
+[02:35:39] CANDIDATE
+  which role exactly
+
+[02:35:40] INTERVIEWER
+  We're discussing the position of a Technical Specialist, which involves working closely with our development team to design and implement innovative solutions. That's a good question, and I'm glad you asked for clarification. Can you tell me about your technical experience and how you think it might be relevant to this type of position?
+
+[02:36:16] CANDIDATE
+  who decided the
+
+[02:36:17] INTERVIEWER
+  Our hiring team, in collaboration with the department head, decided on the requirements and responsibilities for the Technical Specialist role. Your question shows you're interested in understanding the context, which is great. Now, let's move on to your technical skills - can you walk me through your experience with programming languages and software development methodologies?
+
+[02:36:58] CANDIDATE
+  World Cup starting
+
+[02:36:59] INTERVIEWER
+  That's an exciting event, but let's focus on the interview for now. You've had a chance to ask some clarifying questions, which is good, and now I'd like to delve a bit deeper into your technical abilities. Can you describe a situation where you had to troubleshoot a complex technical issue, and how you went about resolving it?
+
+[02:37:37] CANDIDATE
+  goodbye
+
+[02:37:37] INTERVIEWER
+  Thank you so much for your time today. It was a pleasure speaking with you. We will review everything and be in touch within a few days. Take care and goodbye!
+
+============================================================
+END OF TRANSCRIPT

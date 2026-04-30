@@ -1,0 +1,31 @@
+============================================================
+         INTERVIEW TRANSCRIPT
+  Date  : 2026-04-30
+  Role  : management
+  Model : llama-3.3-70b-versatile
+  Engine: MediaPipe (Face) + Librosa (Voice)
+============================================================
+
+[02:06:59] INTERVIEWER
+  Hello, welcome to your interview session. I'm glad you could make it today. We will go through a few questions covering your background, skills, and experience. Please take your time and answer naturally. Let's begin — could you please start by introducing yourself?
+
+[02:07:35] CANDIDATE
+  hello
+
+[02:07:37] INTERVIEWER
+  It's nice to meet you, and I appreciate you taking the time to speak with me today about the management position, please make yourself comfortable and don't hesitate to ask if you need any clarification on anything. Can you start by telling me a little bit about your background and what inspired you to apply for this management role?
+
+[02:08:10] CANDIDATE
+  I don't know
+
+[02:08:10] INTERVIEWER
+  It can be a bit overwhelming at first, take a deep breath and let's break it down, I'm here to support you throughout this conversation. Let me try to help you get started, what do you think are some of your key strengths that could be relevant to a management position?
+
+[02:08:24] CANDIDATE
+  goodbye
+
+[02:08:24] INTERVIEWER
+  Thank you so much for your time today. It was a pleasure speaking with you. We will review everything and be in touch within a few days. Take care and goodbye!
+
+============================================================
+END OF TRANSCRIPT

@@ -1,0 +1,42 @@
+============================================================
+         INTERVIEW TRANSCRIPT
+  Date  : 2026-04-30
+  Model : llama-3.3-70b-versatile
+  Engine: MediaPipe (Face) + Librosa (Voice)
+============================================================
+
+[12:49:40] INTERVIEWER
+  Hello, welcome to your interview session. I'm glad you could make it today. We will go through a few questions covering your background, skills, and experience. Please take your time and answer naturally. Let's begin — could you please start by introducing yourself?
+
+[12:50:09] CANDIDATE
+  hello
+
+[12:50:10] INTERVIEWER
+  It's nice to meet you, please make yourself comfortable, and don't worry, this is just a conversation to get to know you and your qualifications better. Can you start by telling me a little bit about your background and what inspired you to apply for this role?
+
+[12:50:52] CANDIDATE
+  hello my name is
+
+[12:50:53] INTERVIEWER
+  It's lovely to meet you, and thank you for introducing yourself, that takes a lot of courage. Now, could you tell me a bit more about your educational background and how it relates to the position you're applying for today?
+
+[12:51:30] CANDIDATE
+  Agar vah log a Jaate Hain Samne
+
+[12:51:33] INTERVIEWER
+  It seems like you're expressing a thought in Hindi, and I appreciate your candor, even if I didn't quite catch the entire phrase. Let's focus on your technical skills for a moment, what programming languages or technical tools are you most proficient in and how do you think they could be applied to this role?
+
+[12:52:10] CANDIDATE
+  Nahin vah abhi interrupt Hui ja rahi hai
+
+[12:52:11] INTERVIEWER
+  It sounds like you were trying to say something but felt interrupted, please don't worry, we're here to have a conversation and I want to hear your thoughts. Let's take a deep breath and start again, can you tell me about a time when you overcame a difficult technical challenge in your previous experience?
+
+[12:52:39] CANDIDATE
+  goodbye
+
+[12:52:39] INTERVIEWER
+  Thank you so much for your time today. It was a pleasure speaking with you. We will review everything and be in touch within a few days. Take care and goodbye!
+
+============================================================
+END OF TRANSCRIPT

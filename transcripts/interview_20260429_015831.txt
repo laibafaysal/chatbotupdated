@@ -1,0 +1,36 @@
+============================================================
+         INTERVIEW TRANSCRIPT
+  Date  : 2026-04-29
+  Model : llama-3.3-70b-versatile
+  Engine: EmotiEffLib (enet_b0_8_best_afew)
+============================================================
+
+[01:55:21] INTERVIEWER
+  Hello, welcome to your interview session. I'm glad you could make it today. We will go through a few questions covering your background, skills, and experience. Please take your time and answer naturally. Let's begin — could you please start by introducing yourself?
+
+[01:55:57] CANDIDATE
+  hello
+
+[01:55:58] INTERVIEWER
+  It's nice to meet you, and I appreciate you taking the time to come in today. Can you start by telling me a little bit about your background and what motivated you to apply for this role?
+
+[01:56:21] CANDIDATE
+  which rule
+
+[01:56:22] INTERVIEWER
+  You're referring to the rules we should follow during this interview. To confirm, we will be following a structured format, and I will be asking one question at a time, varying between open-ended, hypothetical, and competency-based questions, and I'll also be taking note of your responses to assess your fit for the role. Now, let's get back to the introduction, you were about to tell me about your background, is that correct?
+
+[01:57:42] CANDIDATE
+  na jahir
+
+[01:57:43] INTERVIEWER
+  It seems like you're not quite ready to share that information yet. That's okay, let's take a step back and focus on getting to know you better. Can you tell me about your educational background or any relevant experience you have that might be related to this role?
+
+[01:58:14] CANDIDATE
+  goodbye
+
+[01:58:14] INTERVIEWER
+  Thank you so much for your time today. It was a pleasure speaking with you. We will review everything and be in touch within a few days. Take care and goodbye!
+
+============================================================
+END OF TRANSCRIPT

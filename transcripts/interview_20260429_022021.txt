@@ -1,0 +1,60 @@
+============================================================
+         INTERVIEW TRANSCRIPT
+  Date  : 2026-04-29
+  Model : llama-3.3-70b-versatile
+  Engine: MediaPipe Face Landmarker
+============================================================
+
+[02:16:41] INTERVIEWER
+  Hello, welcome to your interview session. I'm glad you could make it today. We will go through a few questions covering your background, skills, and experience. Please take your time and answer naturally. Let's begin — could you please start by introducing yourself?
+
+[02:17:13] CANDIDATE
+  hello my name
+
+[02:17:14] INTERVIEWER
+  It's nice to meet you, please make yourself comfortable and don't worry, this is just a conversation to get to know you better. Can you start by telling me a little bit about your background and what inspired you to apply for this role?
+
+[02:17:42] CANDIDATE
+  which role
+
+[02:17:43] INTERVIEWER
+  We're discussing the position of a data analyst, I should have mentioned that earlier, I apologize for the confusion. Let me start again, can you tell me a little bit about your background and what makes you interested in a career as a data analyst?
+
+[02:18:13] CANDIDATE
+  CS since by O level
+
+[02:18:14] INTERVIEWER
+  So you've had a strong foundation in computer science since your O levels, that's great. It sounds like you've had a keen interest in this field for a while, can you tell me about your technical skills, specifically what programming languages are you most proficient in?
+
+[02:18:38] CANDIDATE
+  hello
+
+[02:18:39] INTERVIEWER
+  Don't worry, take a deep breath, it's okay, we're just having a conversation. You were about to tell me about your technical skills, can you continue with that, what programming languages are you most comfortable with?
+
+[02:18:53] CANDIDATE
+  car cut gai
+
+[02:18:54] INTERVIEWER
+  It seems like you might be a bit nervous, that's completely understandable. Let's take a step back and try to focus on the question, can you tell me about a specific project you worked on where you had to use your technical skills to solve a problem?
+
+[02:19:20] CANDIDATE
+  tell me a bit about yourself
+
+[02:19:21] INTERVIEWER
+  I'd be happy to share a bit about myself to help you feel more at ease, my name is Rachel and I'm a senior hiring manager here, and I've been working with the company for about 5 years now. Can you tell me about a time when you had to work with a team to achieve a common goal, how did you handle that situation?
+
+[02:19:39] CANDIDATE
+  why is the sky so
+
+[02:19:40] INTERVIEWER
+  It seems like your mind is wandering a bit, that's okay, let's try to refocus on the conversation. We were discussing your experiences and skills, and I'd like to get back to that, can you tell me about a challenging situation you faced in a previous project or role, and how you overcame it?
+
+[02:20:05] CANDIDATE
+  it's a goodbye
+
+[02:20:05] INTERVIEWER
+  Thank you so much for your time today. It was a pleasure speaking with you. We will review everything and be in touch within a few days. Take care and goodbye!
+
+============================================================
+END OF TRANSCRIPT

@@ -1,0 +1,84 @@
+============================================================
+         INTERVIEW TRANSCRIPT
+  Date  : 2026-04-30
+  Model : llama-3.3-70b-versatile
+  Engine: MediaPipe (Face) + Librosa (Voice)
+============================================================
+
+[00:24:34] INTERVIEWER
+  Hello, welcome to your interview session. I'm glad you could make it today. We will go through a few questions covering your background, skills, and experience. Please take your time and answer naturally. Let's begin — could you please start by introducing yourself?
+
+[00:25:07] CANDIDATE
+  hello
+
+[00:25:09] INTERVIEWER
+  It's nice to meet you, please make yourself comfortable, and don't worry, this is just a conversation to get to know you better and explore how you might fit into our team. Can you start by telling me a little bit about your background and what motivated you to apply for this role?
+
+[00:25:50] CANDIDATE
+  I just randomly started doing this
+
+[00:25:51] INTERVIEWER
+  It can be a bit intimidating to jump into a new field, but it's great that you're taking the initiative to explore new opportunities. That takes a lot of courage, so thank you for being honest with me. What technical skills or areas of expertise do you think you've developed so far that might be relevant to this role?
+
+[00:26:13] CANDIDATE
+  please wait for a while
+
+[00:26:13] INTERVIEWER
+  Take your time, we're not in a rush, and I want to make sure you feel comfortable and prepared to continue our conversation, so just let me know when you're ready to move forward.
+
+[00:26:33] CANDIDATE
+  Gujarati
+
+[00:26:34] INTERVIEWER
+  It sounds like you might be sharing a bit about your cultural background, which is great, but I want to make sure I understand how it relates to the role, so can you tell me about a specific situation where you overcame a challenge, perhaps in a work or project setting, and how you handled it?
+
+[00:27:00] CANDIDATE
+  aur vah plot Karke
+
+[00:27:01] INTERVIEWER
+  I'm having a bit of trouble following, it seems like we might be switching between languages, and I want to make sure I understand your thoughts clearly, so let's take a deep breath and start fresh, can you tell me about a time when you had to solve a complex problem, and how you approached it?
+
+[00:27:22] CANDIDATE
+  remind me switching between languages
+
+[00:27:23] INTERVIEWER
+  You had mentioned "Gujarati" earlier, which is a language, and then you said something in a different language, it seemed like we were switching between languages, but don't worry about it, let's focus on the conversation and move forward, can you tell me about a time when you had to work with a team to achieve a common goal?
+
+[00:27:48] CANDIDATE
+  do you know Urdu
+
+[00:27:49] INTERVIEWER
+  I'm familiar with Urdu as a language, but I want to make sure we stay on track with our conversation, so let's try to focus on the topics related to the role, and I'll do my best to understand and respond to your thoughts, now, would you like to ask me any questions about the position or the company?
+
+[00:28:16] CANDIDATE
+  I don't understand
+
+[00:28:17] INTERVIEWER
+  Don't worry, it's okay if you're feeling a bit unclear, let me try to rephrase and simplify, we're here to have a conversation about the job and how you might be a good fit, so I'll ask you one question at a time, and we'll take it from there, are you ready to try again?
+
+[00:28:36] CANDIDATE
+  can you speak Urdu
+
+[00:28:36] INTERVIEWER
+  I can try to understand and respond in Urdu, but I want to make sure we can communicate effectively, so let me ask you, would you prefer to continue our conversation in Urdu, or would you like to stick with English?
+
+[00:29:05] CANDIDATE
+  Urdu
+
+[00:29:06] INTERVIEWER
+  I'll try my best to speak in Urdu, but please keep in mind that I'm a bit limited in my proficiency, so bear with me, ab hum job ke baare mein baat karte hain, aapko kis cheez mein interest hai?
+
+[00:29:30] CANDIDATE
+  aapko Urdu theek se nahin aati
+
+[00:29:31] INTERVIEWER
+  Aap bilkul theek keh rahe hain, meri Urdu bohot kamzor hai, to hum wapas English mein baat karte hain, okay, so let's switch back to English, and I'll make sure to speak clearly and slowly so you can understand me better, don't worry about it, we'll take it from here.
+
+[00:30:00] CANDIDATE
+  goodbye
+
+[00:30:00] INTERVIEWER
+  Thank you so much for your time today. It was a pleasure speaking with you. We will review everything and be in touch within a few days. Take care and goodbye!
+
+============================================================
+END OF TRANSCRIPT

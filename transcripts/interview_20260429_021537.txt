@@ -1,0 +1,36 @@
+============================================================
+         INTERVIEW TRANSCRIPT
+  Date  : 2026-04-29
+  Model : llama-3.3-70b-versatile
+  Engine: MediaPipe Face Landmarker
+============================================================
+
+[02:12:35] INTERVIEWER
+  Hello, welcome to your interview session. I'm glad you could make it today. We will go through a few questions covering your background, skills, and experience. Please take your time and answer naturally. Let's begin — could you please start by introducing yourself?
+
+[02:13:25] CANDIDATE
+  hello
+
+[02:13:26] INTERVIEWER
+  It's nice to meet you, please make yourself comfortable, and don't worry, this is just a conversation to get to know you and your qualifications better. Can you start by telling me a little bit about your background and what inspired you to apply for this role?
+
+[02:13:54] CANDIDATE
+  which Rolex
+
+[02:13:55] INTERVIEWER
+  That's an interesting question, but let's focus on your qualifications and experience for now, and we can discuss other topics later. You seemed a bit nervous when you first arrived, so I want to reassure you that everything is going well so far, and I'm looking forward to hearing more about your technical skills, can you tell me about your proficiency in programming languages?
+
+[02:14:40] CANDIDATE
+  Java
+
+[02:14:41] INTERVIEWER
+  Java is a great skill to have, and it's widely used in our industry, so that's definitely a plus. Now, I'd like to dive a bit deeper into your problem-solving abilities, can you describe a situation where you had to troubleshoot a complex issue with your Java code?
+
+[02:15:19] CANDIDATE
+  goodbye
+
+[02:15:19] INTERVIEWER
+  Thank you so much for your time today. It was a pleasure speaking with you. We will review everything and be in touch within a few days. Take care and goodbye!
+
+============================================================
+END OF TRANSCRIPT

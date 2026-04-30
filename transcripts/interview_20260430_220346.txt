@@ -1,0 +1,31 @@
+============================================================
+         INTERVIEW TRANSCRIPT
+  Date  : 2026-04-30
+  Role  : Software Engineer
+  Model : gpt-4o
+  Engine: MediaPipe (Face) + Librosa (Voice)
+============================================================
+
+[22:01:39] INTERVIEWER
+  Hello, welcome to your interview session. I'm glad you could make it today. We will go through a few questions covering your background, skills, and experience. Please take your time and answer naturally. Let's begin — could you please start by introducing yourself?
+
+[22:02:33] CANDIDATE
+  I am liable
+
+[22:02:36] INTERVIEWER
+  Thank you for sharing. Let's start with an introduction. Could you tell me a bit about your background and what led you to pursue a career in software engineering?
+
+[22:03:01] CANDIDATE
+  selected this
+
+[22:03:04] INTERVIEWER
+  Great, thank you for that insight. Now, let's dive into your technical skills. Could you tell me about a programming language you feel most proficient in and why?
+
+[22:03:23] CANDIDATE
+  goodbye
+
+[22:03:23] INTERVIEWER
+  Thank you so much for your time today. It was a pleasure speaking with you. We will review everything and be in touch within a few days. Take care and goodbye!
+
+============================================================
+END OF TRANSCRIPT
