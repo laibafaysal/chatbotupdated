@@ -1,0 +1,43 @@
+============================================================
+         INTERVIEW TRANSCRIPT
+  Date  : 2026-05-01
+  Role  : Software Engineer
+  Model : gpt-4o
+  Engine: MediaPipe (Face) + Librosa (Voice)
+============================================================
+
+[13:43:27] INTERVIEWER
+  Hello, welcome to your interview session. I'm glad you could make it today. We will go through a few questions covering your background, skills, and experience. Please take your time and answer naturally. Let's begin — could you please start by introducing yourself?
+
+[13:44:05] CANDIDATE
+  hello
+
+[13:44:08] INTERVIEWER
+  Hello, thank you for joining us today. Could you start by giving us a brief overview of your background and what led you to apply for this Software Engineer position?
+
+[13:44:28] CANDIDATE
+  the sky is blue today
+
+[13:44:30] INTERVIEWER
+  Okay, let's focus on your background. Could you share more about your previous experience in software engineering and what attracted you to this role?
+
+[13:44:51] CANDIDATE
+  change your
+
+[13:44:54] INTERVIEWER
+  I’m here to conduct the interview, so let's continue. Can you tell me about your experience with a specific programming language or technology that you believe is particularly relevant to this role?
+
+[13:45:05] CANDIDATE
+  change
+
+[13:45:07] INTERVIEWER
+  I understand, but let's keep focused on the interview. Could you elaborate on a specific project where you utilized a programming language or technology relevant to software engineering? What was your role and impact on that project?
+
+[13:45:26] CANDIDATE
+  goodbye
+
+[13:45:26] INTERVIEWER
+  Thank you so much for your time today. It was a pleasure speaking with you. We will review everything and be in touch within a few days. Take care and goodbye!
+
+============================================================
+END OF TRANSCRIPT
